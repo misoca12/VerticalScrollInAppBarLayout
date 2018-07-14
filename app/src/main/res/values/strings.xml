@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VerticalScrollInAppBarLayout</string>
+    <string name="scroll_text">This is TextView in NestedScroll\nThis is TextView in NestedScroll\nThis is TextView in NestedScroll\nThis is TextView in NestedScroll\nThis is TextView in NestedScroll\nThis is TextView in NestedScroll\nThis is TextView in NestedScroll\nThis is TextView in NestedScroll\nThis is TextView in NestedScroll\nThis is TextView in NestedScroll\nThis is TextView in NestedScroll\nThis is TextView in NestedScroll</string>
+</resources>
